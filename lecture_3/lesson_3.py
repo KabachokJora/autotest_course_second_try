@@ -3,3 +3,5 @@ print(tuple1)
 for i in range(len(tuple1)):
     if type(tuple1[i]) == list:
         print(tuple1[i])
+print('привет')
+#Добавил чутка
